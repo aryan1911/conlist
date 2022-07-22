@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aryan1911/conlist/static/css/main.a3ac6aa2.chunk.css",
+    "main.js": "/aryan1911/conlist/static/js/main.ea16da57.chunk.js",
+    "main.js.map": "/aryan1911/conlist/static/js/main.ea16da57.chunk.js.map",
+    "runtime-main.js": "/aryan1911/conlist/static/js/runtime-main.61feea3f.js",
+    "runtime-main.js.map": "/aryan1911/conlist/static/js/runtime-main.61feea3f.js.map",
+    "static/js/2.8e81b7c5.chunk.js": "/aryan1911/conlist/static/js/2.8e81b7c5.chunk.js",
+    "static/js/2.8e81b7c5.chunk.js.map": "/aryan1911/conlist/static/js/2.8e81b7c5.chunk.js.map",
+    "index.html": "/aryan1911/conlist/index.html",
+    "static/css/main.a3ac6aa2.chunk.css.map": "/aryan1911/conlist/static/css/main.a3ac6aa2.chunk.css.map",
+    "static/js/2.8e81b7c5.chunk.js.LICENSE.txt": "/aryan1911/conlist/static/js/2.8e81b7c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61feea3f.js",
+    "static/js/2.8e81b7c5.chunk.js",
+    "static/css/main.a3ac6aa2.chunk.css",
+    "static/js/main.ea16da57.chunk.js"
+  ]
+}
